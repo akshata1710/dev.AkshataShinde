@@ -9,7 +9,7 @@ const Projects = () => {
       description: "DineDash is a robust, full stack food delivery platform designed to streamline the end-to-end ordering experience for both customers and vendors. Developed using React.js for the front end, Django REST for the backend, and PostgreSQL for the database, the platform supports secure order tracking for 500+ users.",
       description1: "The project features a cloud-ready microservices architecture deployed via AWS EC2 with CI/CD pipelines automated through Jenkins, enabling rapid, reliable updates. A fully responsive UI and performance-enhancing elements like caching and optimized APIs ensure a seamless experience across all devices.",
       description2: "Whether you're a hungry user or a restaurant partner, DineDash demonstrates how scalable architecture, clean UI/UX, and cloud-native deployment come together to deliver a modern food delivery solution.",
-      tech: ["React.js", "Django REST", "PostgreSQL", "Jenkins, AWS EC2", "HTML5, CSS3" ],
+      tech: ["React.js", "Django REST", "PostgreSQL", "Jenkins, AWS EC2" ],
       github: "https://github.com",
       live: "https://dineDashDelivery.netlify.app",
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop",
